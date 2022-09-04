@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Mamun Miah</h1>
+<h1 align="center">Hi, I'm Mamun Miah</h1>
 <h3 align="center">I'm an undergraduate student at Computer Science & Engineering , University of Rajshahi.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamun48&label=Profile%20views&color=0e75b6&style=flat" alt="mamun48" /> </p>
